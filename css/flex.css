@@ -1,0 +1,85 @@
+ body {
+     text-align: center;
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+     text-transform: capitalize;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+.flex {
+    height: 250px;
+    background-color: teal;
+    text-transform: capitalize;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mar {
+    margin-bottom: 61px;
+    margin-top: 34px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+.sava {
+    margin: 22px;
+}
+
+button {
+    width: 130px;
+    height: 32px;
+    border-radius: 8px;
+    border: 0px;
+
+}
+
+button:hover {
+    background-color: rgba(64, 224, 208, 0.383);
+}
+
+.all {
+    display: flex;
+    height: 165px;
+    justify-content: center;
+    padding: 30px;
+    margin: 100px;
+}
+
+.inv {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.icon {
+    width: 348px;
+    font-size: 75px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.are-you {
+    height: 100px;
+    background-color: rgb(15 154 140);
+    color: #FFf;
+    line-height: 91px;
+}
+
+.parent {
+    height: 122px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-grow: 10px;
+
+}.feb {
+   margin: 10px;
+   color: #fff;
+   font-size: 50px;
+}
